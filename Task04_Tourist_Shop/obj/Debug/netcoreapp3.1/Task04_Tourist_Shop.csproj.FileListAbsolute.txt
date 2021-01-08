@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\bin\Debug\netcoreapp3.1\Task04_Tourist_Shop.exe
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\bin\Debug\netcoreapp3.1\Task04_Tourist_Shop.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\bin\Debug\netcoreapp3.1\Task04_Tourist_Shop.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\bin\Debug\netcoreapp3.1\Task04_Tourist_Shop.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\bin\Debug\netcoreapp3.1\Task04_Tourist_Shop.dll
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\bin\Debug\netcoreapp3.1\Task04_Tourist_Shop.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.dll
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation\Task04_Tourist_Shop\obj\Debug\netcoreapp3.1\Task04_Tourist_Shop.genruntimeconfig.cache
